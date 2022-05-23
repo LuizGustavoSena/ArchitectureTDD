@@ -1,0 +1,12 @@
+{
+  "name": "ArchitectureTDD",
+  "version": "1.0.0",
+  "description": "Learn about TDD",
+  "main": "index.js",
+  "repository": "https://github.com/LuizGustavoSena/ArchitectureTDD.git",
+  "author": "Luiz Gustavo Banin de Sena <luiz.sena@voeazul.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "4.6.4"
+  }
+}
